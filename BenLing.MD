@@ -1,3 +1,3 @@
-# Test from Ben hi hello
+# Test from Ben hi hi
 
 ## Change: Added a second line here
